@@ -1,7 +1,5 @@
 # Kalkulator Sederhana
 
-![Preview Kalkulator](preview.png) *(Opsional: tambahkan screenshot kalkulator)*
-
 ## Deskripsi Proyek
 Kalkulator web sederhana dengan antarmuka bersih yang mendukung operasi matematika dasar. Dibangun dengan vanilla JavaScript tanpa dependensi eksternal, cocok untuk pemula yang ingin mempelajari dasar-dasar pengembangan web.
 
